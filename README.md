@@ -50,4 +50,4 @@ Estoy ampliando mis conocimientos en desarrollo de software, sobre todo en Java,
 ## Contacto
 
 - Email: ikergldevgmail.com
-- LinkedIn:
+- LinkedIn: https://www.linkedin.com/jobs/
